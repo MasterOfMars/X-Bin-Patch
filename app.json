@@ -10,25 +10,25 @@
     "success_url": "https://t.me/NexaBotsUpdates",
     "env": {
         "APP_ID": {
-            "description": "Your APP_ID from my.telegram.org",
+            "description": "22963263",
             "required": true
         },
         "API_HASH": {
-            "description": "Your API_HASH from my.telegram.org",
+            "description": "32ddb4c3eba53c16cff7a54bd159eb0c",
             "required": true
         },
         "AUTH_USERS": {
-            "description": "Telegram Ids Of Auth Users, Only they can use this bot. Separate them by space!",
+            "description": "-1001938794462",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Your Bot Token From @BotFather",
+            "description": "5941001431:AAGPNHA3xH7gEGaCm2gmCyvlbsjsVO8fHZ0",
             "required": true
         },
         "IS_PUBLIC_BOT": {
-            "description": "Set this to 'True' If you want to set Download Function as Public. Default to 'False' !",
+            "description": "Set this to 'True' If you want to set Download Function as Public. Default to 'False' ",
             "required": false,
-            "value": "False"
+            "value": "True"
         },
         "LOGS_CHANNEL": {
             "description": "Make a private channel and forward a message from that channel to @ChannelidHEXbot and Get this. Not Mandatory",
@@ -36,11 +36,11 @@
             "value": ""
         },
         "MEGA_EMAIL": {
-            "description": "Fill this if you want to use your own Mega Account. This is your Mega account Email!",
+            "description": "gilikat294@raotus.com",
             "required": false
         },
         "MEGA_PASSWORD": {
-            "description": "Fill this if you want to use your own Mega Account. This is your Mega account Password!",
+            "description": "Karthi7092$",
             "required": false
         }
     },
